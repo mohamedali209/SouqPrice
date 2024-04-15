@@ -1,7 +1,6 @@
 # souq
 
-A new Flutter project.
-
+Fluuter applicattion for gold and silver prices at Egyptian market
 ## Getting Started
 
 This project is a starting point for a Flutter application.
