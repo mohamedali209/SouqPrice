@@ -1,5 +1,5 @@
 # souq
-Flutter applicattion for gold and silver prices at Egyptian market
+Flutter applicattion for gold and silver prices at Egyptian market for mobile layout.
 
 ![1](https://github.com/mohamedali209/SouqPrice/assets/157232556/2ff9eb80-961a-43f3-92c5-2647de8cdd26) 
 ![2](https://github.com/mohamedali209/SouqPrice/assets/157232556/faa10afc-cebe-4dbd-843f-53d74f16381e)
